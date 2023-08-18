@@ -1,0 +1,27 @@
+    html {
+      --lumo-base-color: rgb(27, 25, 91);
+      --lumo-primary-color: hsl(214, 0%, 98%);
+      --lumo-primary-color-50pct: hsla(214, 0%, 98%, 0.5);
+      --lumo-primary-color-10pct: hsla(214, 0%, 98%, 0.1);
+      --lumo-shade: hsl(214, 0%, 99%);
+      --lumo-shade-5pct: hsla(214, 0%, 99%, 0.05);
+      --lumo-shade-10pct: hsla(214, 0%, 99%, 0.1);
+      --lumo-shade-20pct: hsla(214, 0%, 99%, 0.2);
+      --lumo-shade-30pct: hsla(214, 0%, 99%, 0.3);
+      --lumo-shade-40pct: hsla(214, 0%, 99%, 0.4);
+      --lumo-shade-50pct: hsla(214, 0%, 99%, 0.5);
+      --lumo-shade-60pct: hsla(214, 0%, 99%, 0.6);
+      --lumo-shade-70pct: hsla(214, 0%, 99%, 0.7);
+      --lumo-shade-80pct: hsla(214, 0%, 99%, 0.8);
+      --lumo-shade-90pct: hsla(214, 0%, 99%, 0.9);
+      --lumo-body-text-color: hsla(214, 0%, 97%, 0.94);
+      --lumo-border-radius-s: calc(var(--lumo-size-m) / 6);
+      --lumo-border-radius-m: calc(var(--lumo-size-m) / 2);
+      --lumo-border-radius-l: var(--lumo-size-m);
+      --lumo-space-xl: 2.5rem;
+      --lumo-space-l: 1.75rem;
+      --lumo-space-m: 1.125rem;
+      --lumo-space-s: 0.75rem;
+      --lumo-space-xs: 0.375rem;
+
+    }
