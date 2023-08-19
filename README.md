@@ -3,22 +3,26 @@
 
 # SECCION 1
 -- Al correr el programa se nos mostrará el inicio de la aplicacion.
+
 ![image](https://github.com/Justxt/Aplicacion_Bancaria/assets/96129728/d7bfbecf-f4c0-4f9d-aa4c-bca20cc52aef)
 
 #SECCION 2
 -- Cuando se elija la opcion abrir cuenta se dirijirá a la seccion de registrar la cuenta.
 -- Llenamos los datos y procedemos a crear una cuenta. En el caso de ya contar con una se elije el boton de abajo.
 -- Al momento de crearse una cuenta se creará un numero de cuenta automaticamente.
+
 ![image](https://github.com/Justxt/Aplicacion_Bancaria/assets/96129728/78ff97e9-3f7d-4b68-97b8-0093cc521679)
 
 #SECCION 3
 -- Una vez creada la cuenta se reedirijirá a la seccion de iniciar sesion.
 -- Llenamos los datos y continuamos.
+
 ![image](https://github.com/Justxt/Aplicacion_Bancaria/assets/96129728/c2cd5043-947a-47f3-a4c2-23344936c535)
 
 #SECCION 4
 -- Se ingresara al DASHBOARD de la cuenta.
 -- Aqui contamos con 4 opciones: Transferir, Pago de Servicios Basicos, Solicitud de tarjeta y Cerrar Sesion.
+
 ![image](https://github.com/Justxt/Aplicacion_Bancaria/assets/96129728/b40c6a5f-f277-4254-b1f3-8a2f546d0860)
 
 #SECCION 5
@@ -26,26 +30,33 @@
 -- Insertamos el numero de cuenta y un monto a enviar
 -- Cuando se envie se mostrará una ventana indicando si la transaccion fue exitosa.
 -- El saldo se descontará automaticamente y se le aumentará a la cuenta enviada.
+
 ![image](https://github.com/Justxt/Aplicacion_Bancaria/assets/96129728/8aae00fb-5e05-4ac8-93c0-b6d35dd0bbbb)
 
 #SECCION 6
 -- PAGO SERVICIOS
 -- Se mostraá una lista de 3 servicio basicos.
+
 ![image](https://github.com/Justxt/Aplicacion_Bancaria/assets/96129728/0b86c9b8-c232-4ebe-a0b8-11014a1d057b)
 
 # SECCION 7
 -- Se mostrará una monto a pagar del servicio elegido.
+
 ![image](https://github.com/Justxt/Aplicacion_Bancaria/assets/96129728/0c757344-ae39-493d-b21d-c70a938f2315)
 -- Cuando se realice la operacion se mostrará un aviso de pago realizado y se descontará.
+
 ![image](https://github.com/Justxt/Aplicacion_Bancaria/assets/96129728/11bccad3-e05c-4d66-b920-45c92649da33)
 
 #SECCION 8
 -- FORMULARIO SOLICITUD DE TARJETA
 -- Al hacer click en la tarjeta que aparece en el DASHBOARD se reedirijirá a un formulario.
+
 ![image](https://github.com/Justxt/Aplicacion_Bancaria/assets/96129728/0e476d38-73be-4a74-9a1b-842b12115760)
 -- Llenamos y enviamos.
+
 ![image](https://github.com/Justxt/Aplicacion_Bancaria/assets/96129728/5f73918d-ef9c-4721-b5b3-dc6732e700ac)
 -- Muestra notificacion si fue exitosa.
+
 ![image](https://github.com/Justxt/Aplicacion_Bancaria/assets/96129728/8e84c3cb-8b4d-46dc-bf59-72705296d0e4)
 
 
